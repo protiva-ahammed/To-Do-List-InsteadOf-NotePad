@@ -1,0 +1,32 @@
+.todoItem{
+
+    width: 500px;
+    color: rgb(59, 58, 58);
+    margin: 0 auto;
+    padding: 10px;
+
+}
+
+.todoItemName{
+    color:black;
+}
+
+.line{
+    border: 1px solid #d4d3d3;
+}
+.deleteButton{
+    float: right;
+    padding: 6px 20px;
+    border:none;
+    background-color:rgb(248, 143, 101);;
+    color: white;
+    margin-top:-5px;
+    border-radius:3px;
+    cursor:pointer;
+
+}
+
+.completedTask{
+    text-decoration: line-through ;
+
+}

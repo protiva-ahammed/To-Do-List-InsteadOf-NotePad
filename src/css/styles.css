@@ -1,0 +1,11 @@
+.inline-header{
+    color: grey;
+    font-size: 85px  ;
+    background-color:aquamarine;
+}
+
+.outline-header{
+    color: white;
+    background-color:rgb(18, 19, 19);
+    font-size: 45px;
+}

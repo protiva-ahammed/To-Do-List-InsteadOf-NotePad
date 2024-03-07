@@ -1,0 +1,15 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    font-size: 1.5em;
+    font-weight: medium;
+    text-align: center;
+    width: 100%;
+    background-color:rgb(206, 253, 227);
+    padding: 10px;
+}
+
+.item{
+    margin:50px;
+    color:rgb(112, 112, 112)
+}
